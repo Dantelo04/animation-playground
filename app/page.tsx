@@ -9,6 +9,7 @@ export default function Home() {
       <ul>
         <li><Link href={'/scrollone'}>Scroll Test One</Link></li>
         <li><Link href={'/parallax'}>Parallax Effect</Link></li>
+        <li><Link href={'/scrolltwo'}>Scroll Test Two</Link></li>
       </ul>
     </Main>
   );

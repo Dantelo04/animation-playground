@@ -31,7 +31,7 @@ const page = () => {
             <Block></Block>
             <Block></Block>
           </BlockWrapper>
-          <div style={{height: "400px", display: 'flex', justifyContent: 'center', alignItems: 'center'}}>👀</div>
+          <div style={{height: "400px", display: 'flex', justifyContent: 'center', alignItems: 'center'}}></div>
         </Main>
     </>
   )
